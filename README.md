@@ -30,4 +30,4 @@ To solidify bike-sharing program in Des Moines is a solid business proposal by c
 ## Summary
 More male users takes up Over 2 million total bike-sharing people. They tend to start at 8am and drop between 5pm – 6pm in downtown area. Additional analysis can be trips by age and tripduration by age to understand the age preference to bike-sharing .
 
-
+[link to dashboard] https://public.tableau.com/views/NYC_CITIBIKE_CHALLENGE_16646813049910/Citybikes?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
